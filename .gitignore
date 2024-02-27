@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# yolo_v5
+run/
+
+
 # Distribution / packaging
 .Python
 build/
